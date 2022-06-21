@@ -8,3 +8,4 @@
 
 #### 2022. 06. 21.
 - Solved SW Expert Academy No. 5688
+- Solved SW Expert Academy No. 1206
