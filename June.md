@@ -5,3 +5,6 @@
 
 #### 2022. 06. 20.
 - Solved SW Expert Academy No. 1859
+
+#### 2022. 06. 21.
+- Solved SW Expert Academy No. 5688
