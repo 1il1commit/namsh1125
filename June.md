@@ -12,4 +12,5 @@
 
 #### 2022. 06. 22.
 - Make Extracurricular_Activities repository
-
+- Try to solve SW Expert Academy No. 1244
+- Added SW Expert Academy No. 13229, No. 2046 problem to GitHub
