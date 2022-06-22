@@ -9,3 +9,7 @@
 #### 2022. 06. 21.
 - Solved SW Expert Academy No. 5688
 - Solved SW Expert Academy No. 1206
+
+#### 2022. 06. 22.
+- make Extracurricular_Activities repository
+
