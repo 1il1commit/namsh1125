@@ -19,3 +19,6 @@
 - Solved SW Expert Academy No. 2071
 - Try to solve SW Expert Academy No. 1244
 - Try to solve SW Expert Academy No. 1926
+
+#### 2022. 06. 24.
+- Solved SW Expert Academy No. 1926
