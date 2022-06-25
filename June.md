@@ -27,3 +27,7 @@
 
 #### 2022. 06. 25.
 - Solved SW Expert Academy No. 2068
+- Solved SW Expert Academy No. 2005
+
+
+
