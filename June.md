@@ -32,4 +32,8 @@
 #### 2022. 06. 26.
 - Solved SW Expert Academy No. 2063
 
+#### 2022. 06. 27.
+- Solved SW Expert Academy No. 2058
+- Solved SW Expert Academy No. 1244
+
 
