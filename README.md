@@ -2,6 +2,7 @@
 
 ### Progress - June
 - Solved SW Expert Academy 19 questions
+<br>
 
 ### Progress - July
 <br><br>
