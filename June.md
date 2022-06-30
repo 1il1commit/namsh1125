@@ -45,3 +45,4 @@
 - Solved SW Expert Academy No. 2043
 
 #### 2022. 06. 30.
+- Solved SW Expert Academy No. 2029
