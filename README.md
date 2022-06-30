@@ -1,8 +1,7 @@
 # namsh1125
 
 ### Progress - June
-<br><br>
-
+- Solved SW Expert Academy 19 questions
 
 ### Progress - July
 <br><br>
