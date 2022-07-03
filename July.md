@@ -10,4 +10,4 @@
 - Solved and add comment SW Expert Academy No. 2027
 
 #### 2022. 07. 03.
-- Solved and add comment SW Expert Academy No. 1215
+- Solved and comment SW Expert Academy No. 1215
