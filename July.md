@@ -12,3 +12,6 @@
 #### 2022. 07. 03.
 - Solved and comment SW Expert Academy No. 1215
 - Solved and comment SW Expert Academy No. 2025
+
+#### 2022. 07. 04.
+- Solved and comment SW Expert Academy No. 1213
