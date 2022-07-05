@@ -6,12 +6,15 @@
 
 #### 2022. 07. 02.
 - Add comment SW Expert Academy No. 2805
-- Solved and add comment SW Expert Academy No. 1225
-- Solved and add comment SW Expert Academy No. 2027
+- Solved SW Expert Academy No. 1225
+- Solved SW Expert Academy No. 2027
 
 #### 2022. 07. 03.
-- Solved and comment SW Expert Academy No. 1215
-- Solved and comment SW Expert Academy No. 2025
+- Solved SW Expert Academy No. 1215
+- Solved SW Expert Academy No. 2025
 
 #### 2022. 07. 04.
-- Solved and comment SW Expert Academy No. 1213
+- Solved SW Expert Academy No. 1213
+
+#### 2022. 07. 05.
+- Solved SW Expert Academy No. 1954
