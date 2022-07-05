@@ -18,3 +18,4 @@
 
 #### 2022. 07. 05.
 - Solved SW Expert Academy No. 1954
+- Solved SW Expert Academy No. 2019
