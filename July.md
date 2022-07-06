@@ -22,3 +22,4 @@
 
 #### 2022. 07. 06.
 - Solved SW Expert Academy No. 1204
+- Initial settings for refactoring using Spring Boot
