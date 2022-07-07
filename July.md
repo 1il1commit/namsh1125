@@ -23,3 +23,6 @@
 #### 2022. 07. 06.
 - Solved SW Expert Academy No. 1204
 - Initial settings for refactoring using Spring Boot
+
+#### 2022. 07. 07.
+- Update my web page readme.md
