@@ -26,3 +26,9 @@
 
 #### 2022. 07. 07.
 - Update my web page readme.md
+
+#### 2022. 07. 08.
+- Refactoring my web page
+
+#### 2022. 07. 07.
+- Refactoring my web page
